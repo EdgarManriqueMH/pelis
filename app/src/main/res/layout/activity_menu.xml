@@ -23,6 +23,6 @@
         app:headerLayout="@layout/nav_header_main"
         app:menu="@menu/activity_main_drawer"
         android:background="@color/white"
-        app:itemTextColor="@color/black"/>
+        app:itemTextColor="@color/gray"/>
 
 </androidx.drawerlayout.widget.DrawerLayout>
