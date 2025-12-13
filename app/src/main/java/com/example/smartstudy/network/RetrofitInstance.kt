@@ -12,7 +12,7 @@ import retrofit2.Retrofit
 object RetrofitInstance {
 
     // La URL base de la API (la tenías en tu JS)
-    private const val TMDB_BASE_URL = "https://api.themoviedb.org/3/"
+    private const val TMDB_BASE_URL = "https://api.themoviedb.org/7/"
 
     // Un "Interceptor" es un código que "intercepta" cada llamada
     // antes de que salga a internet.
